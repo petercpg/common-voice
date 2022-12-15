@@ -32,7 +32,7 @@
     "db-migrate-plugin-typescript": "^2.0.0",
     "dotenv": "^8.2.0",
     "event-stream": "^3.3.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-mysql-session": "^2.1.0",
     "express-promise-router": "^3.0.1",
     "express-session": "^1.16.2",
