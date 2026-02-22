@@ -21,7 +21,7 @@
   "dependencies": {
     "@google-cloud/storage": "^7.3.1",
     "@types/tar": "^6.1.7",
-    "bullmq": "^4.9.0",
+    "bullmq": "^5.70.0",
     "commander": "^13.1.0",
     "config": "^3.3.9",
     "csv-parse": "^5.5.2",
